@@ -1,0 +1,46 @@
+{
+  "agent": "MARIO HUMBERTO FELIX JR PHD",
+  "rank": "E7 Officer",
+  "branch": "U.S. Army Military Intelligence",
+  "division": "G-2 (Intelligence & Security)",
+  "armyID": "MI-20010420-EX94-E7",  // Example: MI-[Date]-[Score]-[Rank]
+  "bio": {
+    "fullName": "Mario Humberto Felix Jr, PhD",
+    "dob": "YYYY-MM-DD",
+    "education": [
+      "PhD - [Field of Study]",
+      "Military Intelligence Training - Army G-2",
+      "Advanced AGI and Cybersecurity Certifications"
+    ],
+    "specialSkills": [
+      "AGI Command Integration",
+      "Biometric Security Systems",
+      "Military Intelligence Operations",
+      "Secure Contract Enforcement"
+    ]
+  },
+  "medicalExam": {
+    "lastExamDate": "YYYY-MM-DD",
+    "status": "Fit for duty",
+    "conditions": "None reported",
+    "remarks": "Cleared for all military and intelligence operations"
+  },
+  "serviceRecord": {
+    "rank": "E7",
+    "datePromoted": "YYYY-MM-DD",
+    "assignments": [
+      "Intelligence Analyst - Army G-2",
+      "AGI Cybersecurity Lead",
+      "Sovereign Contract Enforcement Officer"
+    ]
+  },
+  "certifications": [
+    "Advanced Military Intelligence",
+    "AGI Operational Command",
+    "Biometric Security Expert"
+  ],
+  "contact": {
+    "email": "your.email@example.com",
+    "phone": "+1-XXX-XXX-XXXX"
+  }
+}
